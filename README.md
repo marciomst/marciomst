@@ -1,17 +1,19 @@
 - ### Olá, Prazer! Me Chamo Marcio Soares Thomann 👋
 - 👨‍👩‍👧 Minha Maior Inspiração é a Minha Familia S2
 - 🙏 Primeiramente Agradeço a DEUS por esse momento na minha vida, uma mudança que só ele sabe o grande que foi 🙏
-- 🎓 Meu Inicio foi Cursando JAVA na Udemy Prof Nelio Alves depois fui para o Curso do ProgramadorBR FullStack 
+- 🎓 Meu Inicio foi Cursando JAVA + POO na Udemy Prof Nelio Alves, depois fui para o Curso em Video JavaScript Prof Gustavo Guanabara na sequência            ProgramadorBR FullStack prof Igor Oliveira, Consegui Finalizar Todo o Front-End antes de dar inicio na Trybe!
 - 📚 Estudando Desenvolvimento Web/Ciências da Computação Front End & Back End And: + Soft Skills na Trybe
 - ❤️  Busco Sempre correr Atrás de Novos Conhecimentos, pois quando tive o primeiro contato achei maravilhoso da real forma que funciona um Site!
 - 🔭 A Procura da Primeira Oportunidade na Área ...
+- 
   <br>
   <br> 
+  
   <h2>English:</h2>
 - ### Hello, Pleasure! My name is Marcio Soares Thomann 👋
 - 👨‍👩‍👧 My Biggest Inspiration is My Family S2
 - 🙏 First I thank GOD for this moment in my life, a change that only he knows how great it was 🙏
-- 🎓 My Start was Studying JAVA at Udemy Prof Nelio Alves then I went to the Course ProgrammerBR FullStack
+- 🎓 My Start was Studying JAVA + POO at Udemy Prof Nelio Alves, then I went to the Video JavaScript Course Prof Gustavo Guanabara following                  ProgramadorBR FullStack Prof Igor Oliveira, I managed to finish the entire Front-End before starting at Trybe!
 - 📚 Studying Web Development/Computer Science Front End & Back End And: + Soft Skills at Trybe
 - ❤️ I always seek to run After New Knowledge, because when I had the first contact I found it wonderful in the real way that a Website works!
 - 🔭 The Search for the First Opportunity in the ...
@@ -37,6 +39,7 @@
   <a href="https://www.linkedin.com/in/marciosoaresthomann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomarciosoaresthoman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="Em Breve" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   
