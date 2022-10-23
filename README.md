@@ -7,8 +7,6 @@
 - 🔭 A Procura da Primeira Oportunidade na Área ...
   
 
-
-
   <br>
  
   <h2>English:</h2>
